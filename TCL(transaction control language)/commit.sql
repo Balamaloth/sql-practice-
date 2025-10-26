@@ -1,0 +1,2 @@
+-- Commit changes permanently
+COMMIT;

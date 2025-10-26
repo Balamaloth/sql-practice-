@@ -1,0 +1,2 @@
+-- Rollback (undo) changes
+ROLLBACK;
